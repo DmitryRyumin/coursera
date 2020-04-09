@@ -1,2 +1,1 @@
-# coursera
-Курсы Coursera
+# Курсы Coursera
