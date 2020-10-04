@@ -170,3 +170,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Creating_Custom_Callbacks_in_Keras.ipynb
+Image_Data_Augmentation_with_Keras.ipynb
+Introduction_to_Data_Science_in_Python/
+Save_Load_and_Export_Models_with_Keras.ipynb
+Specialization_TensorFlow_in_Practice/
+TensorFlow_Data_and_Deployment_Specialization/
